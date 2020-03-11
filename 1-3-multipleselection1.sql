@@ -1,2 +1,2 @@
 SELECT name,price
-FROM purchase;
+FROM purchases;
